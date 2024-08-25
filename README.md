@@ -46,15 +46,27 @@ pip install opencv-contrib-python
 ```
 Contiene tanto los módulos principales como los módulos adicionales/contribuciones.
 
-5. Instalación de matplotlib
-```md
-pip install matplotlib
-```
+https://docs.nvidia.com/cuda/wsl-user-guide/index.html
 
-5. Instalación de TensorFlow gpu
-```md
-pip install tensorflow-gpu
-```
-```md
-pip install tensorflow
-```
+2. Getting Started with CUDA on WSL 2
+To get started with running CUDA on WSL, complete these steps in order:
+
+2.1. Step 1: Install NVIDIA Driver for GPU Support
+Install NVIDIA GeForce Game Ready or NVIDIA RTX Quadro Windows 11 display driver on your system with a compatible GeForce or NVIDIA RTX/Quadro card from https://www.nvidia.com/Download/index.aspx. Refer to the system requirements in the Appendix.)
+
+Note
+
+This is the only driver you need to install. Do not install any Linux display driver in WSL.
+
+2.2. Step 2: Install WSL 2
+Launch your preferred Windows Terminal / Command Prompt / Powershell and install WSL:
+
+wsl.exe --install
+Ensure you have the latest WSL kernel:
+
+wsl.exe --update
+2.3. Step 3: Set Up a Linux Development Environment
+From a Windows terminal, enter WSL:
+
+C:\> wsl.exe
+The default distro is Ubuntu. To update the distro to your favorite distro from the command line and to review other WSL commands, refer to the following resources:
