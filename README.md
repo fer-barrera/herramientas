@@ -22,9 +22,9 @@ Conda está disponible en dos versiones: una versión completa que incluye numpy
 1. Descargue el instalador del siguiente enlace: https://www.anaconda.com/download (912.3M).
    - Para descargar el instalador no es necesario suministrar su dirección de correo electronico, o realizar la suscripción al servicio anaconda cloud.
    - Seleccione la opcion [skip registration](https://www.anaconda.com/download/success).
-2. Ejecute el instalador teniendo precaución con las siguientes opciones de instalación (formularios).
-   - Cuando se pregunte por tipo de instalación (installation type), selecciona la opción ''all users'', la cual permite instalar anaconda en la raiz del disco, facilitando enormemente su gestión (puede requerir la clave de administrador).
-   - Cuando se pregunte por la ruta de instalación (choose install location), escriba C:\apps\anaconda3
-   - Cuando se pregunte por las opciones avanzadas de instalación (advanced installation options), selecciones la opción: “Anaconda” as my “default Python 3.X” environment. Esto habilita el entorno virtual base de anaconda como el interprete por defecto para python.
+2. Ejecute el instalador de anaconda teniendo precaución con las siguientes opciones (formularios):
+   - Cuando se pregunte por tipo de instalación (installation type), seleccione la opción ''all users'', esta permite instalar anaconda en la raiz del disco, lo cual facilita enormemente su gestión (puede requerir la clave de administrador).
+   - Cuando se pregunte por la ruta de instalación (choose install location), escriba: C:\apps\anaconda3
+   - Cuando se pregunte por las opciones avanzadas de instalación (advanced installation options), selecciones la opción: “Anaconda” as my “default Python 3.X” environment. Esto habilita el entorno virtual base de anaconda como el interprete por defecto del sistema.
 
 
