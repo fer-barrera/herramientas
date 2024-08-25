@@ -46,6 +46,8 @@ pip install opencv-contrib-python
 ```
 Contiene tanto los módulos principales como los módulos adicionales/contribuciones.
 
+https://learn.microsoft.com/en-us/windows/wsl/install
+
 https://docs.nvidia.com/cuda/wsl-user-guide/index.html
 
 2. Getting Started with CUDA on WSL 2
