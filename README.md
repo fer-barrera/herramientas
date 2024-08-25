@@ -87,3 +87,8 @@ Option 1: Installation of Linux x86 CUDA Toolkit using WSL-Ubuntu Package - Reco
 
 The CUDA WSL-Ubuntu local installer does not contain the NVIDIA Linux GPU driver, so by following the steps on the CUDA download page for WSL-Ubuntu, you will be able to get just the CUDA toolkit installed on WSL. (https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=WSL-Ubuntu&target_version=2.0&target_type=deb_local)
 
+python3 -m pip install tensorflow[and-cuda]
+
+Verify the installation:
+
+python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
