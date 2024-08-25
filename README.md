@@ -50,3 +50,11 @@ Contiene tanto los módulos principales como los módulos adicionales/contribuci
 ```md
 pip install matplotlib
 ```
+
+5. Instalación de TensorFlow gpu
+```md
+pip install tensorflow-gpu
+```
+```md
+pip install tensorflow
+```
