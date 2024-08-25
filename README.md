@@ -42,7 +42,11 @@ conda activate dl
 ```
 4. Instalación de OpenCV
 ```md
-conda install -c conda-forge opencv
+pip install opencv-contrib-python
 ```
-Este comando permite la instalación del paquete OpenCV a través del canal conda-forge, el cual alberga una extensa colección de recursos para el gestor de paquetes Conda.
-5. 
+Contiene tanto los módulos principales como los módulos adicionales/contribuciones.
+
+5. Instalación de matplotlib
+```md
+pip install matplotlib
+```
