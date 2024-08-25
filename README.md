@@ -1,4 +1,4 @@
-# herramientas
+# Herramientas
 Guia rápida de instalación de herramientas para el desarrollo de aplicaciones en python
 
 
@@ -16,3 +16,11 @@ Conda está disponible en dos versiones: una versión completa que incluye numpy
 * Conda simplifica en gran medidad la gestión de dependencias, eliminando las complejidades de compatibilidad entre versiones de paquetes. Esto es esencial cuando se necesitan múltiples versiones de paquetes para una instalación específica.
 
 * Utilizando conda no existe el riesgo de alterar las bibliotecas del sistema, lo que garantiza un entorno estable y seguro para tu desarrollo.
+
+### 1.2. Guia de instalación
+
+1. Descargue el instalador del siguiente enlace: https://www.anaconda.com/download.
+   - No es necesario suministrar una dirección de correo o la suscripción al servicio anaconda cloud para descargar el instalador.
+   - Seleccione la opcion [skip registration](https://www.anaconda.com/download/success).
+
+
