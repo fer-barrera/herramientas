@@ -30,5 +30,19 @@ Conda está disponible en dos versiones: una versión completa que incluye numpy
 
 ## 2. Configuración del entorno vistual.
 
-1. Ejecute la consola de comandos de anaconda. En el menu de aplicaciones de windows ejecute Anaconda>Anaconda powershell.
-2. 
+1. Inicie una sesión en la consola de comandos de anaconda, para ello ejecute Anaconda>Anaconda powershell prompt desde el menu de aplicaciones de windows.
+2. Cree un nuevo entorno virtual desde la línea de comandos.
+```md
+conda create --name dl python=3.8
+```
+Teclee [y] para continuar con la instalación.
+3. Active el entorno virtual
+```md
+conda activate dl
+```
+4. Instalación de OpenCV
+```md
+conda install -c conda-forge opencv
+```
+Este comando permite la instalación del paquete OpenCV a través del canal conda-forge, el cual alberga una extensa colección de recursos para el gestor de paquetes Conda.
+5. 
