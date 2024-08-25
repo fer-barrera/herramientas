@@ -33,7 +33,7 @@ Conda está disponible en dos versiones: una versión completa que incluye numpy
 1. Inicie una sesión en la consola de comandos de anaconda, para ello ejecute Anaconda>Anaconda powershell prompt desde el menu de aplicaciones de windows.
 2. Cree un nuevo entorno virtual desde la línea de comandos.
 ```md
-conda create --name dl python=3.8
+conda create --name dl python
 ```
 Teclee [y] para continuar con la instalación.
 3. Active el entorno virtual
