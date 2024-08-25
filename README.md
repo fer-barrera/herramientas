@@ -1,7 +1,7 @@
-# Herramientas
-Guia rápida de instalación de herramientas para el desarrollo de aplicaciones en python
-
-
+<h1 align="center">
+🔸 Herramientas 🔸
+</h1>
+Guia rápida de instalación de herramientas para el desarrollo de aplicaciones con python
 
 ## 1. Anaconda.
 
