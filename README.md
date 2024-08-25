@@ -89,6 +89,11 @@ The CUDA WSL-Ubuntu local installer does not contain the NVIDIA Linux GPU driver
 
 pip install tensorflow[and-cuda]
 
+Setup Guide for Tensorflow on Windows 11’s WSL2
+
+https://gldevelops.medium.com/setup-guide-for-tensorflow-on-windows-11s-wsl2-5c519c48bf16
+
+
 Verify the installation:
 
 python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
