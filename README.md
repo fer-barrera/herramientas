@@ -20,7 +20,7 @@ Conda está disponible en dos versiones: una versión completa que incluye numpy
 ### 1.2. Guia de instalación
 
 1. Descargue el instalador del siguiente enlace: https://www.anaconda.com/download (912.3M).
-   - No es necesario suministrar una dirección de correo o la suscripción al servicio anaconda cloud para descargar el instalador.
+   - Para descargar el instalador no es necesario suministrar su dirección de correo electronico, o realizar la suscripción al servicio anaconda cloud.
    - Seleccione la opcion [skip registration](https://www.anaconda.com/download/success).
 2. Ejecute el instalador teniendo precaución con las siguientes opciones de instalación (formularios).
    - Cuando se pregunte por tipo de instalación (installation type), selecciona la opción ''all users'', la cual permite instalar anaconda en la raiz del disco, facilitando enormemente su gestión (puede requerir la clave de administrador).
