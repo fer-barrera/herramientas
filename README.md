@@ -5,7 +5,7 @@ Guia rápida de instalación de herramientas para el desarrollo de aplicaciones 
 
 ## 1. Anaconda.
 
-Anaconda es una distribución de Python que incluye un conjunto de herramientas y bibliotecas preinstaladas, diseñadas para facilitar el desarrollo y la gestión de entornos de programación en ciencia de datos, aprendizaje automático y análisis de datos, proporcionando una instalación simplificada, y gestión de paquetes y dependencias a través de la herramienta conda.
+Anaconda es una compañia dedicada a distribuir un entorno multiplataforma para el desarrollo de aplicaciones en Python, su ecosistema incluye tanto herramientas, como bibliotecas precompiladas, diseñadas para facilitar la gestión de multiples entornos de programación, como por ejemplo, en ciencia de datos, aprendizaje automático y análisis de datos. Su ecosistema entre otras ventajas simplifica la instalación, gestioin y control de dependencias de las librerias.
 
 Conda está disponible en dos versiones: una versión completa que incluye numpy, scipy, PyQt, el entorno de desarrollo Spyder, entre otros, y una versión minimalista, conocida como Miniconda, que permite instalar solo los componentes necesarios, según las necesidades del usuario.
 
